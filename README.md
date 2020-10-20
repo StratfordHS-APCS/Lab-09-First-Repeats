@@ -1,9 +1,11 @@
 # Lab 09 - First Repeats
 
-**Lab Goal:**
+### Lab Goal
+
 This lab was designed to teach you more about arrays. You will need to use a variable, a loop, and if statement.
 
-**Lab Description:**
+### Lab Description:
+
 Write a program that will search through an array and check to see if the first number in the array occurs more than once. If the first number occurs more than once, return true. Otherwise, return false. If the array is empty, return false.
 
 **Sample Data** | **Sample Output**
