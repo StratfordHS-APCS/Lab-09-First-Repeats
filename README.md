@@ -1,6 +1,6 @@
 # Lab 09 - First Repeats
 
-**Lab Goal: **
+**Lab Goal:**
 This lab was designed to teach you more about arrays. You will need to use a variable, a loop, and if statement.
 
 **Lab Description:**
