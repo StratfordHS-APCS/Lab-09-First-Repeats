@@ -4,7 +4,7 @@
    	<modelVersion>4.0.0</modelVersion>
 
    	<groupId>com.SHS.APCS</groupId>
-   	<artifactId>Lab-09-First Repeats</artifactId>
+   	<artifactId>Lab-09-First-Repeats</artifactId>
    	<version>1.0</version>
 
 	<dependencies>
